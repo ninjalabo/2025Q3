@@ -8,6 +8,9 @@ I believe your technical preferences matter significantly, and I don't wish to w
 
 ## Instructions
 
+### 0. Clone privately
+* Please git clone this repo *privately* and share with GH account, `doyu`.
+
 ### 1. GitHub Issues
 
 * Concisely outline each step of your development process as individual [GitHub issues](https://docs.github.com/en/issues).
