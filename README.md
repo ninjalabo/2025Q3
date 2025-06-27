@@ -9,7 +9,7 @@ I believe your technical preferences matter significantly, and I don't wish to w
 ## Instructions
 
 ### 0. Clone privately
-* Please git clone this repo *privately* and share with GH account, `doyu` before starting anything.
+* Please git clone this repo *privately* and share with GH account, `doyu` before starting anything. Once I get an invitation, I'll schedule a sync-up meeting next week.
 
 ### 1. GitHub Issues
 
