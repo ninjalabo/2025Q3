@@ -32,7 +32,7 @@ I believe your technical preferences matter significantly, and I don't wish to w
 
 ### 4. Testing
 
-* Include relevant tests within your notebook to confirm that your function behaves as expected.
+* Include relevant tests within your notebook to confirm that your small function behaves as expected. Skip ones needing `OPENAI_API_KEY`.
 
 ### 5. Documentation
 
